@@ -17,10 +17,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +35,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +59,24 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
