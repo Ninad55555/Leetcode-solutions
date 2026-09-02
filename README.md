@@ -18,6 +18,7 @@ My Leetcode Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +37,7 @@ My Leetcode Solutions
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
