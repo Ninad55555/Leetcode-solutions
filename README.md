@@ -20,6 +20,7 @@ My Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ My Leetcode Solutions
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
