@@ -13,6 +13,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Array
 |  |
 | ------- |
@@ -84,4 +85,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
