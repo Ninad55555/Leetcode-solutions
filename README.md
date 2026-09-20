@@ -37,6 +37,7 @@ My Leetcode Solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ My Leetcode Solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
