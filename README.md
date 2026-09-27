@@ -35,6 +35,7 @@ My Leetcode Solutions
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -49,6 +50,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
