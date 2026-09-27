@@ -37,6 +37,7 @@ My Leetcode Solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -125,4 +126,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
