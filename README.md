@@ -20,6 +20,7 @@ My Leetcode Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0561-array-partition](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +47,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0561-array-partition](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -96,6 +98,7 @@ My Leetcode Solutions
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Design
 |  |
@@ -147,4 +150,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
