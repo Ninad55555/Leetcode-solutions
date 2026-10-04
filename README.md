@@ -116,17 +116,20 @@ My Leetcode Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
