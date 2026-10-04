@@ -156,11 +156,13 @@ My Leetcode Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0733-flood-fill](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -173,4 +175,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
