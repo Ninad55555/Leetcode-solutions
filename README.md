@@ -24,6 +24,7 @@ My Leetcode Solutions
 | [0561-array-partition](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -146,6 +147,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0997-find-the-town-judge](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -190,6 +192,7 @@ My Leetcode Solutions
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
