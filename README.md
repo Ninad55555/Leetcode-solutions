@@ -193,6 +193,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Ninad55555/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ninad55555/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
